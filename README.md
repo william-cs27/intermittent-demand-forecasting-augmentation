@@ -1,4 +1,3 @@
-# intermittent-demand-forecasting-augmentation
 # Intermittent Demand Forecasting with Data Augmentation
 
 Research project investigating whether synthetic data augmentation can improve **intermittent-demand time-series forecasting** under limited training data.
