@@ -253,4 +253,3 @@ Research project on **time-series forecasting, intermittent demand, synthetic da
 
 ## License
 
-Add an appropriate license before publishing the repository.
