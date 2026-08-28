@@ -1,0 +1,8 @@
+# Directories to ignore
+lightning_logs/
+results/
+
+# OS and Python artifacts
+.DS_Store
+__pycache__/
+*.pyc
